@@ -6,4 +6,4 @@ With my experience, I am providing a collection of Jupyter notebooks, Python and
 
 Let's go over what is contained in each folder:
 
-ANN for Classification and Regression: This folder contains a Jupyter Notebook that operates on a dataset of second-hand cars. Artificial Neural Networks are used for classifying the cars and predicting their expected selling price through regression.
+- ANN Classification and Regression: This folder contains a Jupyter Notebook that operates on a dataset of second-hand cars. Artificial Neural Networks are used for classifying the cars and predicting their expected selling price through regression.
