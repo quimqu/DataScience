@@ -1,3 +1,9 @@
 # DataScience
-DataScience scripts for different problems
-Based on my experience, I offer a set of jupyter notebooks, python and R examples that solve some exercices. In addition, I will try to optimize the code giving the models with different solutions in order you can compare the results.
+
+**Data Science Scripts for Various Problems**
+
+With my experience, I am providing a collection of Jupyter notebooks, Python and R examples that solve various exercises. I will also strive to optimize the code by presenting different solutions for the models, so that you can compare the results.
+
+Let's go over what is contained in each folder:
+
+ANN for Classification and Regression: This folder contains a Jupyter Notebook that operates on a dataset of second-hand cars. Artificial Neural Networks are used for classifying the cars and predicting their expected selling price through regression.
