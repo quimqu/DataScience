@@ -7,3 +7,4 @@ With my experience, I am providing a collection of Jupyter notebooks, Python and
 Let's go over what is contained in each folder:
 
 - ANN Classification and Regression: This folder contains a Jupyter Notebook that operates on a dataset of second-hand cars. Artificial Neural Networks are used for classifying the cars and predicting their expected selling price through regression.
+- Image classification with convolutional networks: CNN are used to classify grays cale and color images from the CIFAR10 database.
